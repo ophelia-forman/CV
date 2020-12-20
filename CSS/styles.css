@@ -1,0 +1,35 @@
+  body {
+    background-color: #424874;
+    
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: #dbe2ef;
+    border-width: 8px;
+    width: 5%;
+  }
+h1 {
+  color: #f4eeff;
+}
+
+h3 {
+  color: #a6b1e1;
+}
+.top-paragraph
+{
+  color: #dcd6f7;
+}
+tr {
+  color:#f4eeff;
+}
+ul
+{
+  color:#f4eeff;
+}
+a:link {
+  color:#dcd6f7;
+}
+a:hover {
+  color:#f2f0fa;
+}
